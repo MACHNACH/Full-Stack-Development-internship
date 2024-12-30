@@ -27,8 +27,7 @@ Node.js: A JavaScript runtime to run the React application.
 npm: The Node Package Manager to manage dependencies.
 You can check if you have Node.js and npm installed by running the following commands in your terminal:
 
-bash
-Copy code
+
 node -v
 npm -v
 Steps to Set Up
@@ -36,29 +35,21 @@ Clone the Repository
 
 Clone the project to your local machine using the following command:
 
-bash
-Copy code
 git clone https://github.com/your-repository-location-flow.git
 Navigate to Project Folder
 
 Change to the project directory:
 
-bash
-Copy code
 cd location-flow
 Install Dependencies
 
 Run the following command to install all required dependencies:
 
-bash
-Copy code
 npm install
 Start the Development Server
 
 Once the dependencies are installed, start the development server with:
 
-bash
-Copy code
 npm start
 This will launch the app in your default browser, usually at http://localhost:3000.
 
